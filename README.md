@@ -1,2 +1,2 @@
 # LeNet
-用tensorflow2.0训练LeNet
+用tensorflow2.0的API训练LeNet
